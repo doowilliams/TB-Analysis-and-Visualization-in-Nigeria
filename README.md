@@ -17,4 +17,4 @@
 
 ---
 
-*Note: Tailor the language and details to match your specific contributions and impact in the project.*
+
